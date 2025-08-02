@@ -27,3 +27,5 @@ A real-time chat application built using **Express.js**, **Socket.IO**, and **Re
 │ ├── index.js
 │ └── package.json
 └── README.md
+render: https://chat-app-ydlf.onrender.com
+netlify: https://justchata.netlify.app/
